@@ -71,4 +71,6 @@ hr {
     text-decoration: none;
     text-transform: lowercase;
     color:  #679b9b;
+    font-size: 1.2em;
+    font-weight: bold;
 }
